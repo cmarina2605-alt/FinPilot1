@@ -71,7 +71,7 @@ Make it executable:
 
 ```bash
 chmod +x start.sh
-```text
+```
 
 ---
 
@@ -115,7 +115,7 @@ FinPilot AI consists of three main layers:
 
 ## 7. System Diagram (Academic Format)
 
-```text
+```
                  ┌───────────────────────────┐
                  │         PDF Upload        │
                  └─────────────┬─────────────┘
@@ -151,7 +151,7 @@ FinPilot AI consists of three main layers:
               ┌────────────────────────────┐
               │ Final Answer + Citations   │
               └────────────────────────────┘
-```text
+```
 
 ---
 
@@ -161,18 +161,18 @@ FinPilot AI consists of three main layers:
 ```bash
 git clone <https://github.com/cmarina2605-alt/FinPilot1>
 cd FinPilot
-```text
+```
 
 ### **8.2 Create virtual environment**
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-```text
+```
 
 ### **8.3 Install requirements**
 ```bash
 pip install -r requirements.txt
-```text
+```
 
 ### **8.4 Install Ollama**
 <https://ollama.com>
@@ -183,18 +183,18 @@ ollama pull llama3:8b
 ollama pull gemma2:2b
 ollama pull phi3
 ollama pull mistral
-```text
+```
 
 ### **8.6 Start the system**
 Windows:
 ```bat
 start.bat
-```text
+```
 
 Linux:
 ```bash
 ./start.sh
-```text
+```
 
 ---
 
@@ -202,7 +202,7 @@ Linux:
 
 ```text
 [Financial_Manual.pdf p.12 c.0]
-```text
+```
 
 ---
 
@@ -255,4 +255,7 @@ Integrates backend, frontend, RAG, and LLM inference into one complete system.
 
 FinPilot AI is a fully functional academic demonstration of modern AI-driven document analysis.
 Its architecture, offline operation, explainability, and practical utilities make it suitable for academic submission and professional evaluation.
+
+
+
 

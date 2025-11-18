@@ -5,10 +5,11 @@
 
 ## 1. Introduction
 
-FinPilot AI is an academic project designed to demonstrate the integration of **Retrieval-Augmented Generation (RAG)** with a fully local **Large Language Model (LLM)** using *Ollama*.
-It allows students and researchers to upload financial PDFs, extract their contents, index them semantically, and query them using natural language, producing verifiable answers grounded in the original documents.
+FinPilot AI is an academic project that demonstrates how Retrieval-Augmented Generation (RAG) can be combined with a fully local Large Language Model (LLM) using Ollama to create a secure, offline knowledge assistant for professionals.
 
-This project showcases how modern AI can support financial governance, auditing, public budgeting, and document analysis while ensuring transparency, reproducibility, and full offline operation.
+The system enables users to upload internal PDFs, extract and index their contents with semantic embeddings, and query them using natural language—receiving accurate answers grounded strictly in the original documents.
+
+FinPilot showcases a transparent, reproducible, and privacy-preserving AI workflow capable of supporting knowledge-intensive work across sectors: legal, compliance, HR, auditing, policy, research, and general corporate operations. All processing, retrieval, and inference run entirely on-device, ensuring full data control, traceability, and verifiable outputs.
 
 ---
 
@@ -255,6 +256,7 @@ Integrates backend, frontend, RAG, and LLM inference into one complete system.
 
 FinPilot AI is a fully functional academic demonstration of modern AI-driven document analysis.
 Its architecture, offline operation, explainability, and practical utilities make it suitable for academic submission and professional evaluation.
+
 
 
 

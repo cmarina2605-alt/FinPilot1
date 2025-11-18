@@ -1,5 +1,5 @@
 # FinPilot AI – Academic Documentation
-### *Local Retrieval-Augmented Generation System for Financial Document Analysis*
+### *Local Retrieval-Augmented Generation System for Document Analysis*
 
 ---
 
@@ -256,6 +256,7 @@ Integrates backend, frontend, RAG, and LLM inference into one complete system.
 
 FinPilot AI is a fully functional academic demonstration of modern AI-driven document analysis.
 Its architecture, offline operation, explainability, and practical utilities make it suitable for academic submission and professional evaluation.
+
 
 
 

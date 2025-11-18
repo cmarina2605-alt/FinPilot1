@@ -32,7 +32,7 @@ The project aims to:
 - PDF ingestion and extraction
 - Page-level metadata tracking
 - 400-word semantic chunking
-- Vector embeddings via `all-MiniLM-L6-v2`
+- Vector embeddings via `all-MiniLM-L6-v2` (Sentence Transformers)
 - Persistent vector storage with ChromaDB
 - Automatic download of missing models
 - Local LLM inference via Ollama
@@ -255,6 +255,7 @@ Integrates backend, frontend, RAG, and LLM inference into one complete system.
 
 FinPilot AI is a fully functional academic demonstration of modern AI-driven document analysis.
 Its architecture, offline operation, explainability, and practical utilities make it suitable for academic submission and professional evaluation.
+
 
 
 
